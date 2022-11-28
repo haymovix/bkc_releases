@@ -1,2 +1,2 @@
 # bkc_releases
-release as one component bkc as submission. 
+release as one component bkc as subscription. 
